@@ -13,3 +13,8 @@ Salut Jacky, dans ton histoire le personnage roule dans une voiture rouge.
 Il est habillé avec une grande veste de pluie jaune avec un logo bleu dans le dos.
 Tu trouve ton personnage au milieu des innondations dans Charleroi :)
 voilà enjoy !
+
+En effet, Patrick était actuellement en chute libre. Quel idée il a eu de faire ce saut en parachute, ca n'aurait pas été un probleme si il avait
+pensé a prendre le parachute ! donc nous voila dans le beau ciel bleu d'Hawaii, il reflechis au sens de la vie tout en regardant le sol se
+rapproché.
+
