@@ -3,6 +3,7 @@
 juqu'ici tout va bien mais l'important c'est pas la chute,
  c'est l'atterissage !
 
+<<<<<<< HEAD
 Le système est sous contrôle pour l’instant, mais le plus dur reste la détection des failles avant qu’elles n’explosent
 
 Surveiller les logs, c’est bien, mais anticiper l’attaque, c’est encore mieux. Ce qui compte, ce n'est pas l'alerte, c'est la réponse.
@@ -24,3 +25,8 @@ and une alerte urgente apparut : "Allan, assier-toi, y a une pull requ
 est critique qui vient d'atterrir sur ton repo, faut qu'on merge ça.
 >>>>>>> allan
 
+=======
+
+
+Geoffrey venait tout juste de contourner les protections d’un jeu ultra-sécurisé, accédant au code source en quelques frappes de clavier précises. Juste à temps, il effaça ses traces, neutralisant les logs du serveur qui tentaient de le traquer : "C’est bon, tout est patché, personne ne saura que j'ai cracké ça."
+>>>>>>> geoffrey
