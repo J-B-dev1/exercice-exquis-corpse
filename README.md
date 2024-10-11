@@ -14,7 +14,13 @@ Il est habillé avec une grande veste de pluie jaune avec un logo bleu dans le d
 Tu trouve ton personnage au milieu des innondations dans Charleroi :)
 voilà enjoy !
 
+<<<<<<< HEAD
 En effet, Patrick était actuellement en chute libre. Quel idée il a eu de faire ce saut en parachute, ca n'aurait pas été un probleme si il avait
 pensé a prendre le parachute ! donc nous voila dans le beau ciel bleu d'Hawaii, il reflechis au sens de la vie tout en regardant le sol se
 rapproché.
+=======
+Allan venait tout juste de finaliser un commit important sur GitHub qu
+and une alerte urgente apparut : "Allan, assier-toi, y a une pull requ
+est critique qui vient d'atterrir sur ton repo, faut qu'on merge ça.
+>>>>>>> allan
 
